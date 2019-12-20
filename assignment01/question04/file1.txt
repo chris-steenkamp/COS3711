@@ -1,0 +1,1 @@
+You and your users can design dashboards, reports, charts, and models in Excel or the SpreadsheetGear Workbook Designer rather than hard-to-learn developer tools and you can easily deploy them with one line of code.
